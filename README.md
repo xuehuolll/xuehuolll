@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm yuki0x09 👋
 
-<!--
-**xuehuolll/xuehuolll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity practitioner, currently exploring the world of AI inference.
 
-Here are some ideas to get you started:
+After spending years understanding how systems break, I'm now curious about how large language models run — and how to make them run faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently learning:** vLLM, LLM inference, and the systems behind them.
+
+🎯 **Next chapter:** Transitioning from cybersecurity into AI inference engineering.
+
+🐧 **Interests:** Linux · Python · php · Cybersecurity
+
+---
+
+*Keep learning, bros. Learning never ends.*
